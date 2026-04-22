@@ -164,10 +164,18 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 </table>
 
 * **Main insight 2. ~40% gen-Z at entry level after 0.83 year since the last promotion choose to quit job although they have a best work-life balance.** all of them do not have the low performance output.
-<p align="center">
-    <td><img src="PerformanceBest.JPG" width="800"/></td>
-</p>
-  
+
+  <table align="center">
+  <tr>
+    <td align="center"><b>By performance</b></td>
+    <td align="center"><b>By YearsSinceLastPromotion</b></td>
+  </tr>
+  <tr>
+    <td><img src="PerformanceBest.JPG" width="300"/></td>
+    <td><img src="promotionBest.JPG" width="300"/></td>
+  </tr>
+</table>
+
 * **Main insight 3. Low Job Involvement is also a key driver to quit the job although gen-Z have a better work-life balance.** However, the training time also bring both result performance (excellent vs low) with the same time training.
 
 [Visualization specific to category 2]
