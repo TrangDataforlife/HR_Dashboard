@@ -150,15 +150,22 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 
 ### Culture Working Environment Analysis:
 
-* **Main insight 1. 36.4% Gen-Z quit Job even they believe they have a best work-life balance.**
+* **Main insight 1. 36.4% Gen-Z quit Job even they believe they have a best work-life balance.** However, They highly feel low job involvement, satisfaction environment although good relationship with co-workers.
 
-  They highly feel low job involvement, satisfaction environment although good relationship with co-workers.
+  <table align="center">
+  <tr>
+    <td align="center"><b>By Work-life Balance</b></td>
+    <td align="center"><b>By Satisfaction Factors</b></td>
+  </tr>
+  <tr>
+    <td><img src="worklifebalanceBest.JPG" width="500"/></td>
+    <td><img src="satisfactionBest.JPG" width="500"/></td>
+  </tr>
+</table>
+
+* **Main insight 2. ~40% gen-Z at entry level after 0.83 year since the last promotion choose to quit job although they have a best work-life balance.**
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 3. Low Job Involvement is also a key driver to quit the job although gen-Z have a better work-life balance.** However, the training time also bring both result performance (excellent vs low) with the same time training.
 
 [Visualization specific to category 2]
 
