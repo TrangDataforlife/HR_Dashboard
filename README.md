@@ -80,7 +80,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 > **Promotion Paradox:** Gen-Z professionals often resign **1-3 years after their last promotion**, or even within their **first year** (20-50% early attrition rate).
 
 <p align="center">
-  <img src="depart.JPG" width="1000" />
+  <img src="depart.png" width="1000" />
 </p>
 
 ### 🔍 Key Behaviors [Age 18-27]:
