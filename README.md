@@ -76,7 +76,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 
 ---
 
-### Deep Dive: The Demographic Gen-Z
+## Deep Dive: The Demographic Gen-Z
 > [!WARNING]
 > **Promotion Paradox:** Gen-Z professionals often resign **1-3 years after their last promotion**, or even within their **first year** (20-50% early attrition rate).
 
