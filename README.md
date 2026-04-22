@@ -41,7 +41,8 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+**In 16.12% attrition rate, Voluntary occupied 75.95% (From 1985 to 2022 years working starting overall)**
+
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
