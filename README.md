@@ -141,18 +141,24 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 
 * **Main insight 2. High attrition rate happens in early career group, and make up the highest single status** they're still young fresher and single, having less responsibility than marital group. So they tend to be freedom in choosing jobs and unstable.
 
-<table align="center">
-  <tr>
-    <td align="center"><b>By Marital Status</b></td>
-    <td align="center"><b>By Age Group</b></td>
-    <td align="center"><b>By Education Group</b></td>
-  </tr>
-  <tr>
-    <td><img src="attritionRateByMaritalStatus.JPG" width="950"/></td>
-    <td><img src="attritionRateByAge.JPG" width="950"/></td>
-    <td><img src="attritionRateByEducation.JPG" width="950" /></td>
-  </tr>
-</table>
+<p align="center">
+  <b>By Marital Status</b><br>
+  <img src="attritionRateByMaritalStatus.JPG" width="600" />
+</p>
+
+---
+
+<p align="center">
+  <b>By Age Group</b><br>
+  <img src="attritionRateByAge.JPG" width="600" />
+</p>
+
+---
+
+<p align="center">
+  <b>By Education Group</b><br>
+  <img src="attritionRateByEducation.JPG" width="600" />
+</p>
 
 ### Culture Working Environment Analysis:
 
