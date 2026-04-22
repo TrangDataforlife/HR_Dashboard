@@ -155,7 +155,7 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 
 <p align="center">
   <b>By Age Group</b><br>
-  <img src="attritionRateByAge.png" width="450" />
+  <img src="attritionRateByAgeGenZ.jpg" width="450" />
 </p>
 
 ---
