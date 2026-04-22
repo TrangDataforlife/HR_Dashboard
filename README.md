@@ -121,7 +121,7 @@ They also quit job at 20-50% early attrition rate. Additionally, attrition rate 
 **If we don't have any actions to enhance retention rate, the early attrition is more likely happen in the future. Consequently, the human management is ineffective & the skilled, young, and energy human source is shortage, especially gen Z.**
 ---
 # Insights Deep Dive
-### Category 1:
+### Demographic Analysis:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -134,7 +134,7 @@ They also quit job at 20-50% early attrition rate. Additionally, attrition rate 
 [Visualization specific to category 1]
 
 
-### Category 2:
+### Culture Working Environment Analysis:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -147,7 +147,7 @@ They also quit job at 20-50% early attrition rate. Additionally, attrition rate 
 [Visualization specific to category 2]
 
 
-### Category 3:
+### Department Analysis:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
