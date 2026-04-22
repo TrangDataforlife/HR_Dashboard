@@ -1,7 +1,7 @@
 # HR_Dashboard
 An interactive dashboard in Human Resource dataset to EDA, analyze, and make informed decisions. There will have some mistakes on my analytic journey, so please feedback me if you meet any confusion while reading this report. 
 <p align="center">
-  <img src="1.JPG" width="600" />
+  <img src="1.JPG" width="1000" />
 </p>
 # Project Background
 A fictional company, a dataset I received from Starttrain's challenge in Q1.2026, contains employee information and their performance of each department from 1988 to 2022. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve people management's success. 
