@@ -72,8 +72,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 
 * **Target Profile:** Employees born between **2000-2004** (Current age 18-22).
 * **Critical Period:** Tenure of **0-2 years** is the most intense period for attrition.
-* **Hierarchy:** High impact on **Entry, Associate, and Specialist** job levels.
-
+  
 ---
 
 ## Deep Dive: The Demographic Gen-Z
