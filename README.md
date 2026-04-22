@@ -108,7 +108,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
   <tr>
     <td><img src="TenureAttritionyearbyAge.JPG" width="300"/></td>
     <td><img src="EarlyAttritionratebyage.JPG" width="400"/></td>
-    <td><img src="Attritionratebyage.JPG" width="400"/></td>
+    <td><img src="Attritionratebyage.JPG" width="350"/></td>
   </tr>
 </table>
 
