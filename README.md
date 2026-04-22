@@ -7,10 +7,10 @@ A fictional company, a dataset I received from Starttrain's challenge in Q1.2026
 
 Insights and recommendations are provided on the following key areas:
 
-- **Attrition rate Trend Analysis** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Attrition rate Trend Analysis** : Evaluation of historical **attrition rate** patterns, both overvall company and each department, focusing on Attrition rate 
+- **Demographic Analysis** 
+- **Culture Working Analysis** 
+- **Depart Performance Analysis** 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
