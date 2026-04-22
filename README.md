@@ -45,7 +45,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 
 ---
 
-## 1️⃣ Executive Summary: The Attrition Landscape
+## In 16.12% attrition rate, Voluntary occupied 75.95% (From 1985 to 2022 years working starting overall)
 <p align="center">
   <img src="AttritionPieChart.JPG" width="600" />
 </p>
@@ -56,7 +56,6 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 
 ---
 
-## 2️⃣ Historical Context & Market Impact
 <p align="center">
   <img src="AttritionVoluntaryLinechart.JPG" width="800" />
 </p>
@@ -65,8 +64,6 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 > **The 2009 Effect:** We observe a "zigzag" shape in voluntary attrition post-2009. This suggests a lasting negative impact from the 2008 recession, leading to ineffective management and inconsistent quality in workload as employees were cut from the structure.
 
 ---
-
-## 3️⃣ Entry-Level Vulnerability (Age & Tenure)
 <p align="center">
   <img src="tenureyoungage.JPG" width="800" />
 </p>
