@@ -64,6 +64,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 > **The 2009 Effect:** We observe a "zigzag" shape in voluntary attrition post-2009. This suggests a lasting negative impact from the 2008 recession, leading to ineffective management and inconsistent quality in workload as employees were cut from the structure.
 
 ---
+## The tenure employee of the attrition is younger (0-2) years intensely from the employee starting working in [2018-2022], who was born in 2000-2004, mainly responsible for entry, associate, and specialist job level title.
 <p align="center">
   <img src="tenureyoungage.JPG" width="800" />
 </p>
@@ -74,7 +75,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 
 ---
 
-## 4️⃣ Deep Dive: The Gen-Z Attrition Factor
+## Deep Dive: The Gen-Z Attrition Factor
 <p align="center">
   <img src="GenZproportion.JPG" width="500" />
 </p>
@@ -93,7 +94,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 
 ---
 
-## 5️⃣ Statistical Comparison Dashboard
+## 
 *Comparison of Early Attrition vs. Tenure vs. Overall Rate by Age.*
 
 <table align="center">
