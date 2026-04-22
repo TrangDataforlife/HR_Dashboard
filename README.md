@@ -40,33 +40,82 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 # Executive Summary
 
 ### Overview of Findings
-![AttritionPiechart](AttritionPieChart.JPG)
+# 📊 HR Attrition & Gen-Z Insights Analysis
+> *Exploring employee turnover patterns from 1985 to 2022 with a focus on generational shifts.*
 
-**In 16.12% attrition rate, Voluntary occupied 75.95% (From 1985 to 2022 years working starting overall)**
+---
 
-![AttritionVoluntaryLinechart](AttritionVoluntaryLinechart.JPG)
+## 1️⃣ Executive Summary: The Attrition Landscape
+<p align="center">
+  <img src="AttritionPieChart.JPG" width="600" />
+</p>
 
-From 2009 onward, the voluntary attrition rate have a ziczac shape impacting on the consistent quality workload of the company resulting on the ineffective management in the future. But we also concern about the effect of the recession of 2009, a lasting negative event, cutting off employee from the company structure. 
+* **Attrition Rate:** `16.12%` 
+* **Voluntary Turnover:** Occupied **75.95%** of cases.
+* **Context:** Data spanning from 1985 to 2022 shows that voluntary resignation is the dominant factor in company attrition.
 
-![TenureAttritionYoungAge](tenureyoungage.JPG)
+---
 
-The tenure employee of the attrition is younger (0-2) years intensely from the employee starting working in [2018-2022], who was born in 2000-2004, mainly responsible for entry, associate, and specialist job level title.
+## 2️⃣ Historical Context & Market Impact
+<p align="center">
+  <img src="AttritionVoluntaryLinechart.JPG" width="800" />
+</p>
 
-![GenZProportion](GenZproportion.JPG)
+> [!NOTE]
+> **The 2009 Effect:** We observe a "zigzag" shape in voluntary attrition post-2009. This suggests a lasting negative impact from the 2008 recession, leading to ineffective management and inconsistent quality in workload as employees were cut from the structure.
 
-This chart show the % attrition rate of the total only Gen-Z. The attrition rate of Gen-Z ranges from 23% to 60%, and the highest from the HR.
+---
 
-![jobtitleGenZ](jobtitleGenZ.JPG)
+## 3️⃣ Entry-Level Vulnerability (Age & Tenure)
+<p align="center">
+  <img src="tenureyoungage.JPG" width="800" />
+</p>
 
-At the entry/ junior level of the Gen-Z, the tenure voluntary attrition is around 1.6 year. On the other hand, Gen-Z choose to stay at company still work at this position more than 1.6 year.
+* **Target Profile:** Employees born between **2000-2004** (Current age 22-26).
+* **Critical Period:** Tenure of **0-2 years** is the most intense period for attrition.
+* **Hierarchy:** High impact on **Entry, Associate, and Specialist** job levels.
 
-**Gen-Z [18-27], Student/ Early career & Young professional, often quit job after [1-3] years since the last promotion**
-They also quit job, fewer than 1 tenure employee year, at 20-50% early attrition rate. In addition, attrition rate is high from them.
+---
 
-![TenureAttritionYearbyAge](TenureAttritionyearbyAge.JPG)
-![EarlyAttritionYearbyAge](EarlyAttritionratebyage.JPG)
-![AttritionYearbyAge](Attritionratebyage.JPG)
+## 4️⃣ Deep Dive: The Gen-Z Attrition Factor
+<p align="center">
+  <img src="GenZproportion.JPG" width="500" />
+</p>
 
+### 🔍 Key Behaviors [Age 18-27]:
+* **Department Risk:** Gen-Z attrition in HR reaches an alarming **23% to 60%**.
+* **The 1.6 Year Threshold:** - **Voluntary:** Average exit occurs at **1.6 years** for junior levels.
+  - **Retention:** Employees staying beyond 1.6 years show significantly higher long-term commitment.
+
+<p align="center">
+  <img src="jobtitleGenZ.JPG" width="700" />
+</p>
+
+> [!WARNING]
+> **Promotion Paradox:** Gen-Z professionals often resign **1-3 years after their last promotion**, or even within their **first year** (20-50% early attrition rate).
+
+---
+
+## 5️⃣ Statistical Comparison Dashboard
+*Comparison of Early Attrition vs. Tenure vs. Overall Rate by Age.*
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Tenure by Age</b></td>
+    <td align="center"><b>Early Attrition Rate</b></td>
+    <td align="center"><b>Overall Attrition Rate</b></td>
+  </tr>
+  <tr>
+    <td><img src="TenureAttritionyearbyAge.JPG" width="300"/></td>
+    <td><img src="EarlyAttritionYearbyAge.JPG" width="300"/></td>
+    <td><img src="Attritionratebyage.JPG" width="300"/></td>
+  </tr>
+</table>
+
+---
+<p align="center">
+  <i>Developed by Trang Nguyen | Data for Life Project</i>
+</p>
 # Insights Deep Dive
 ### Category 1:
 
