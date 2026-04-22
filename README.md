@@ -135,7 +135,7 @@ They also quit job at 20-50% early attrition rate. Additionally, attrition rate 
 </p>
 
 <p align="center">
-    <td><img src="genderAttrition.JPG" width="500"/></td>
+    <td><img src="genderAttrition.png" width="500"/></td>
 </p>
 Both gender also have high attrition rate in the entry role. Female is after 1.4 years and Male is after 1 year at the entry level
 
