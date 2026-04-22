@@ -50,8 +50,8 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
   <img src="AttritionPieChart.JPG" width="600" />
 </p>
 
-* **Attrition Rate:** `16.12%` 
-* **Voluntary Turnover:** Occupied **75.95%** of cases.
+* **Attrition Rate:** `~16%` 
+* **Voluntary Turnover:** Occupied **~76%** of cases.
 * **Context:** Data spanning from 1985 to 2022 shows that voluntary resignation is the dominant factor in company attrition.
 
 ---
