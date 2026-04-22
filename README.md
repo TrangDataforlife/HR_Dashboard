@@ -123,11 +123,16 @@ They also quit job at 20-50% early attrition rate. Additionally, attrition rate 
 # Insights Deep Dive
 ### Demographic Analysis:
 
-* **Main insight 1. After 3 years since the last promotion of entry level with 24% Gen-Z [18-27] quit the job, in overall year start working 1988-2022.** Female is after 1.4 years and Male is after 1 year at the entry level. They are most a Student/ Early career 46.4%, still single, leading Bachelor & Below college.
+* **Main insight 1. After 3 years since the last promotion of entry level with 24% Gen-Z [18-27] quit the job, in overall year start working 1988-2022.** . There is no difference between genders. They are most a Student/ Early career 46.4%, still single, leading Bachelor & Below college.
 <p align="center">
     <td><img src="Capture.JPG" width="500"/></td>
 </p>
-  
+
+<p align="center">
+    <td><img src="genderAttrition.JPG" width="500"/></td>
+</p>
+Both gender also have high attrition rate in the entry role. Female is after 1.4 years and Male is after 1 year at the entry level
+
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
