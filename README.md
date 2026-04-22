@@ -40,13 +40,17 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 # Executive Summary
 
 ### Overview of Findings
-
+![AttritionPiechart](AttritionPieChart.JPG)
 **In 16.12% attrition rate, Voluntary occupied 75.95% (From 1985 to 2022 years working starting overall)**
 
+![AttritionVoluntaryLinechart](AttritionVoluntaryLinechart.JPG)
+From 2009 onward, the voluntary attrition rate have a ziczac shape impacting on the consistent quality workload of the company resulting on the ineffective management in the future. But we also concern about the effect of the recession of 2009, a lasting negative event, cutting off employee from the company structure. 
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![TenureAttritionYoungAge](tenureyoungage.JPG)
+The tenure employee of the attrition is younger (0-2) years intensely from the employee starting working in [2018-2022], who was born in 2000-2004, mainly responsible for entry, associate, and specialist job level title.
 
 
+This chart show the % attrition rate of the total only Gen-Z. The attrition rate of Gen-Z ranges from 23% to 60%, and the highest from the HR.
 
 # Insights Deep Dive
 ### Category 1:
