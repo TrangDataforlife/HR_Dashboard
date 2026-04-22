@@ -88,7 +88,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
   - **Retention:** Employees staying beyond 1.6 years show significantly higher long-term commitment.
 
 <p align="center">
-  <img src="jobtitleGenZ.JPG" width="700" />
+  <img src="jobtitleGenZ.JPG" width="500" />
 </p>
 
 > [!WARNING]
