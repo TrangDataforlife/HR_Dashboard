@@ -183,7 +183,7 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
     <td align="center"><b>By performance</b></td>
   </tr>
   <tr>
-    <td><img src="promotionBest.JPG" width="400"/></td>
+    <td><img src="promotionBest.png" width="400"/></td>
     <td><img src="PerformanceBest.JPG" width="400"/></td>
   </tr>
 </table>
