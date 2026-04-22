@@ -67,7 +67,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 ---
 ### The tenure employee of the attrition is younger (0-2) years intensely from the employee starting working in [2018-2022], who was born in 2000-2004, mainly responsible for entry, associate, and specialist job level title.
 <p align="center">
-  <img src="tenureyoungage.JPG" width="800" />
+  <img src="tenureyoungage.JPG" width="650" />
 </p>
 
 * **Target Profile:** Employees born between **2000-2004** (Current age 18-22).
