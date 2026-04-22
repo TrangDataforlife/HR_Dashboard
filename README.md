@@ -148,13 +148,6 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
   </tr>
 </table>
 
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 1]
-
-
 ### Culture Working Environment Analysis:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
