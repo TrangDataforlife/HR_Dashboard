@@ -133,19 +133,19 @@ They also quit job at 20-50% early attrition rate. Additionally, attrition rate 
 </p>
 Both gender also have high attrition rate in the entry role. Female is after 1.4 years and Male is after 1 year at the entry level
 
-* **Main insight 2. High attrition rate happens in early career group, and make up the highest single status** they're still young and single, having less responsibility than marital group. So they tend to be freedom in choosing jobs and unstable.
+* **Main insight 2. High attrition rate happens in early career group, and make up the highest single status** they're still young fresher and single, having less responsibility than marital group. So they tend to be freedom in choosing jobs and unstable.
 
-<p align="center">
-    <td><img src="attritionRateByMaritalStatus.JPG" width="500"/></td>
-</p>
-
-<p align="center">
-    <td><img src="attritionRateByAge.JPG" width="500"/></td>
-</p>
-
-<p align="center">
-    <td><img src="attritionRateByEducation.JPG" width="500"/></td>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>By Marital Status</b></td>
+    <td align="center"><b>By Age Group</b></td>
+  </tr>
+  <tr>
+    <td><img src="attritionRateByMaritalStatus.JPG" width="400"/></td>
+    <td><img src="attritionRateByAge.JPG" width="400"/></td>
+    <img src="attritionRateByEducation.JPG" width="400" />
+  </tr>
+</table>
 
 * **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
