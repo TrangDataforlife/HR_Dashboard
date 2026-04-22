@@ -63,6 +63,9 @@ At the entry/ junior level of the Gen-Z, the tenure voluntary attrition is aroun
 **Gen-Z [18-27], Student/ Early career & Young professional, often quit job after [1-3] years since the last promotion**
 They also quit job, fewer than 1 tenure employee year, at 20-50% early attrition rate. In addition, attrition rate is high from them.
 
+![TenureAttritionYearbyAge](TenureAttritionyearbyAge.JPG)
+![EarlyAttritionYearbyAge](%EarlyAttritionratebyage.JPG)
+![AttritionYearbyAge](%Attritionratebyage.JPG)
 
 # Insights Deep Dive
 ### Category 1:
