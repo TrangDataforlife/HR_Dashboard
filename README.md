@@ -167,19 +167,27 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 
   <table align="center">
   <tr>
-    <td align="center"><b>By performance</b></td>
     <td align="center"><b>By YearsSinceLastPromotion</b></td>
+    <td align="center"><b>By performance</b></td>
   </tr>
   <tr>
-    <td><img src="PerformanceBest.JPG" width="400"/></td>
     <td><img src="promotionBest.JPG" width="400"/></td>
+    <td><img src="PerformanceBest.JPG" width="400"/></td>
   </tr>
 </table>
 
-* **Main insight 3. Low Job Involvement is also a key driver to quit the job although gen-Z have a better work-life balance.** However, the training time also bring both result performance (excellent vs low) with the same time training.
+* **Main insight 3. Low Job Involvement is also a key driver to quit the job although gen-Z have a better work-life balance.** Additionally, the training time also bring both result performance (excellent vs low) with the same time training.
 
-[Visualization specific to category 2]
-
+  <table align="center">
+  <tr>
+    <td align="center"><b>By Satisfaction factors</b></td>
+    <td align="center"><b>By training time</b></td>
+  </tr>
+  <tr>
+    <td><img src="satisfactionBetter.JPG" width="400"/></td>
+    <td><img src="trainTimeBetter.JPG" width="400"/></td>
+  </tr>
+</table>
 
 ### Department Analysis:
 
