@@ -107,15 +107,12 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
   </tr>
   <tr>
     <td><img src="TenureAttritionyearbyAge.JPG" width="300"/></td>
-    <td><img src="EarlyAttritionYearbyAge.JPG" width="300"/></td>
+    <td><img src="EarlyAttritionratebyage.JPG" width="300"/></td>
     <td><img src="Attritionratebyage.JPG" width="300"/></td>
   </tr>
 </table>
 
 ---
-<p align="center">
-  <i>Developed by Trang Nguyen | Data for Life Project</i>
-</p>
 # Insights Deep Dive
 ### Category 1:
 
