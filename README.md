@@ -158,8 +158,8 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
     <td align="center"><b>By Satisfaction Factors</b></td>
   </tr>
   <tr>
-    <td><img src="worklifebalanceBest.JPG" width="500"/></td>
-    <td><img src="satifactionBest.JPG" width="500"/></td>
+    <td><img src="worklifebalanceBest.JPG" width="300"/></td>
+    <td><img src="satifactionBest.JPG" width="300"/></td>
   </tr>
 </table>
 
