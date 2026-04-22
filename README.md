@@ -52,8 +52,17 @@ From 2009 onward, the voluntary attrition rate have a ziczac shape impacting on 
 
 The tenure employee of the attrition is younger (0-2) years intensely from the employee starting working in [2018-2022], who was born in 2000-2004, mainly responsible for entry, associate, and specialist job level title.
 
+![GenZProportion](GenZproportion.JPG)
 
 This chart show the % attrition rate of the total only Gen-Z. The attrition rate of Gen-Z ranges from 23% to 60%, and the highest from the HR.
+
+![jobtitleGenZ](jobtitleGenZ.JPG)
+
+At the entry/ junior level of the Gen-Z, the tenure voluntary attrition is around 1.6 year. On the other hand, Gen-Z choose to stay at company still work at this position more than 1.6 year.
+
+**Gen-Z [18-27], Student/ Early career & Young professional, often quit job after [1-3] years since the last promotion**
+They also quit job, fewer than 1 tenure employee year, at 20-50% early attrition rate. In addition, attrition rate is high from them.
+
 
 # Insights Deep Dive
 ### Category 1:
