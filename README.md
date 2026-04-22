@@ -3,11 +3,11 @@ An interactive dashboard in Human Resource dataset to EDA, analyze, and make inf
 ![HR project cover page](1.JPG)
 
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+A fictional company, a dataset I received from Starttrain's challenge in Q1.2026, contains employee information and their performance of each department. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve people management's success. 
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
+- **Attrition rate Trend Analysis** 
 - **Category 2:** 
 - **Category 3:** 
 - **Category 4:** 
