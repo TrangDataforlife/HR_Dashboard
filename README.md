@@ -142,9 +142,9 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
     <td align="center"><b>By Education Group</b></td>
   </tr>
   <tr>
-    <td><img src="attritionRateByMaritalStatus.JPG" width="800"/></td>
-    <td><img src="attritionRateByAge.JPG" width="800"/></td>
-    <td><img src="attritionRateByEducation.JPG" width="700" /></td>
+    <td><img src="attritionRateByMaritalStatus.JPG" width="950"/></td>
+    <td><img src="attritionRateByAge.JPG" width="950"/></td>
+    <td><img src="attritionRateByEducation.JPG" width="950" /></td>
   </tr>
 </table>
 
