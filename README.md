@@ -1,6 +1,6 @@
 # HR_Dashboard
 An interactive dashboard in Human Resource dataset to EDA, analyze, and make informed decisions.
-![HR project cover page](1.png)
+![HR project cover page](1.JPG)
 
 # Project Background
 Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
