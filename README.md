@@ -96,9 +96,8 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
     <td><img src="jobtitleGenZ.JPG" width="300"/></td>
   </tr>
 </table>
-* **The 1.6 Year Threshold:** - **Voluntary:** Average exit occurs at **1.6 years** for junior levels.
-  - **Retention:** Employees staying beyond 1.6 years show significantly higher long-term commitment.
----
+* **The 1.6 Year Threshold:** **Voluntary:** Average exit occurs at **1.6 years** for junior levels.
+  **Retention:** Employees staying beyond 1.6 years show significantly higher long-term commitment.
 
 ### Gen-Z [18-27], Student/ Early career & Young professional, often quit job after [1-3] years since the last promotion
 *Comparison of Tenure vs. Early Attrition vs. Overall Rate by Age.*
