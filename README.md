@@ -76,6 +76,9 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 ---
 
 ## Deep Dive: The Demographic Gen-Z
+> [!WARNING]
+> **Promotion Paradox:** Gen-Z professionals often resign **1-3 years after their last promotion**, or even within their **first year** (20-50% early attrition rate).
+
 <p align="center">
   <img src="GenZproportion.JPG" width="500" />
 </p>
@@ -89,10 +92,6 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 
 * **The 1.6 Year Threshold:** - **Voluntary:** Average exit occurs at **1.6 years** for junior levels.
   - **Retention:** Employees staying beyond 1.6 years show significantly higher long-term commitment.
-
-> [!WARNING]
-> **Promotion Paradox:** Gen-Z professionals often resign **1-3 years after their last promotion**, or even within their **first year** (20-50% early attrition rate).
-
 ---
 
 ### Gen-Z [18-27], Student/ Early career & Young professional, often quit job after [1-3] years since the last promotion
