@@ -124,7 +124,9 @@ They also quit job at 20-50% early attrition rate. Additionally, attrition rate 
 <td><img src="forecast.JPG" width="1000"/></td>
 </p>
 
-**Problem: If we don't have any actions to enhance retention rate, the early attrition is more likely happen in the future. Consequently, the human management is ineffective & the skilled, young, and energy human source is shortage, especially gen Z.**
+---
+## ⚠️ Problem Definition
+> *Identifying the core challenges in workforce sustainability and the risk of talent shortage.*
 ---
 # Insights Deep Dive
 ### Demographic Analysis:
