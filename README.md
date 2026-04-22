@@ -35,6 +35,8 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 13. JobSatisfaction (ID, jobSatisfaction)
 14. Calendar (Date)
 
+![Metadata](2.JPG)
+
 # Executive Summary
 
 ### Overview of Findings
