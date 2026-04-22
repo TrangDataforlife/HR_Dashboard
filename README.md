@@ -58,7 +58,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 ---
 
 <p align="center">
-  <img src="AttritionVoluntaryLinechart.JPG" width="800" />
+  <img src="AttritionVoluntaryLinechart.JPG" width="600" />
 </p>
 
 > [!NOTE]
