@@ -96,7 +96,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
   </tr>
 </table>
 
-* **Department Risk:** - Gen-Z attrition in HR reaches an alarming **60%**.
+* **Department Risk:** - Gen-Z attrition in HR reaches an alarming **60%** in total GenZ.
 
 * **The 1.6 Year Threshold:** - **Voluntary:** Average exit occurs at **1.6 years** for junior levels.
   - **Retention:** Employees staying beyond 1.6 years show significantly higher long-term commitment.
