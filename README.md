@@ -7,30 +7,33 @@ A fictional company, a dataset I received from Starttrain's challenge in Q1.2026
 
 Insights and recommendations are provided on the following key areas:
 
-- **Attrition rate Trend Analysis** : Evaluation of historical **attrition rate** patterns, both overvall company and each department, focusing on Attrition rate 
-- **Demographic Analysis** 
-- **Culture Working Analysis** 
-- **Depart Performance Analysis** 
-
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
-
+- **Attrition rate Trend Analysis** : Evaluation of historical **attrition rate** patterns, both overvall company and each department, focusing on Attrition rate, Attrition Voluntary rate, Early Attrition rate, and Tenure Attrition rate.  
+- **Demographic Attrition Analysis** : An analysis of employee group's personal aspects, understanding the employee persona who already quit job.
+- **Culture Working Analysis** : An evaluation of working environmental health on **satisfaction factors, promotion years, and worklife balance**
+- **Depart Performance Analysis** : An assessment benefits of each department on **average salary, average promotion year, and time spend with managers**
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+The companies main database structure as seen below consists of fifteen tables, with one fact table is Employee, and the others are dimensional tables, with a total row count of 1470 employee records. A description of each table is as follows:
 
-[Entity Relationship Diagram here]
+**Fact table**
+Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessTravel, dateBirth, dateDeparture, dateStart, dateToday, department, distanceFromHome, Education, EmploymentType, EnvironmentSatisfaction, gender, hireType, jobLevel, jobRole, jobInvolvement, jobSatisfaction, maritalStatus, numCompaniesWorked, overTime, performanceRating, relationshipSatisfaction, salary, salaryHike, stockOption, terminationType, totalWorkingYears, trainingTimeLastYear, value, workLifeBalance, yearsAtCompany, yearsSinceLastPromotion, yearsWithCurrManager)
 
-
+**Dimensional table**
+1. BusinessTravel (ID, businessTravel)
+2. Department (ID, department)
+3. HireType (ID, hireType)
+4. Gender (ID, gender)
+5. EnvironmentSatisfaction (ID, environmentSatisfaction)
+6. RelationshipSatisfaction (ID, relationshipSatisfaction)
+7. JobRole (ID, jobRole)
+8. TerminationType (ID, terminationType)
+9. Education (ID, education)
+10. Performance (ID, performance)
+11. JobInvolvement (ID, involvement)
+12. EmploymentType (ID, employmentType)
+13. JobSatisfaction (ID, jobSatisfaction)
+14. Calendar (Date)
 
 # Executive Summary
 
