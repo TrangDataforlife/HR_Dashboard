@@ -93,7 +93,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
   </tr>
   <tr>
     <td><img src="GenZproportion.JPG" width="350"/></td>
-    <td><img src="jobtitleGenZ.JPG" width="350"/></td>
+    <td><img src="jobtitleGenZ.png" width="350"/></td>
   </tr>
 </table>
 
