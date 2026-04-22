@@ -45,7 +45,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 
 ---
 
-## In 16.12% attrition rate, Voluntary occupied 75.95% (From 1985 to 2022 years working starting overall)
+### In 16.12% attrition rate, Voluntary occupied 75.95% (From 1985 to 2022 years working starting overall)
 <p align="center">
   <img src="AttritionPieChart.JPG" width="600" />
 </p>
@@ -64,7 +64,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 > **The 2009 Effect:** We observe a "zigzag" shape in voluntary attrition post-2009. This suggests a lasting negative impact from the 2008 recession, leading to ineffective management and inconsistent quality in workload as employees were cut from the structure.
 
 ---
-## The tenure employee of the attrition is younger (0-2) years intensely from the employee starting working in [2018-2022], who was born in 2000-2004, mainly responsible for entry, associate, and specialist job level title.
+### The tenure employee of the attrition is younger (0-2) years intensely from the employee starting working in [2018-2022], who was born in 2000-2004, mainly responsible for entry, associate, and specialist job level title.
 <p align="center">
   <img src="tenureyoungage.JPG" width="800" />
 </p>
@@ -75,7 +75,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 
 ---
 
-## Deep Dive: The Demographic Gen-Z
+### Deep Dive: The Demographic Gen-Z
 > [!WARNING]
 > **Promotion Paradox:** Gen-Z professionals often resign **1-3 years after their last promotion**, or even within their **first year** (20-50% early attrition rate).
 
