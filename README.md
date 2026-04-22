@@ -209,7 +209,7 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 **Main insight : On the average tenure employee entry level is around 3.5 years they have more than 1 year without accompanying managers**
 
 <p align="center">
-    <td><img src="YearsWithCurrManagement.JPG" width="300"/></td>
+    <td><img src="YearsWithCurrManagement.JPG" width="450"/></td>
 </p>
 
 # Recommendations:
