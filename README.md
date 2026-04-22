@@ -112,7 +112,7 @@ They also quit job at 20-50% early attrition rate. Additionally, attrition rate 
   </tr>
 </table>
 
-<td><img src="forecast.JPG" width="500"/></td>
+<td><img src="forecast.JPG" width="800"/></td>
 
 **If we don't have any actions to enhance retention rate, the early attrition is more likely happen in the future. Consequently, the human management is ineffective & the skilled, young, and energy human source is shortage, especially gen Z.**
 ---
