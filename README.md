@@ -131,7 +131,7 @@ They also quit job at 20-50% early attrition rate. Additionally, attrition rate 
 
 * **Main insight 1. After 3 years since the last promotion of entry level with 24% Gen-Z [18-27] quit the job, in overall year start working 1988-2022.** . There is no difference between genders.
 <p align="center">
-    <td><img src="Capture.JPG" width="500"/></td>
+    <td><img src="Capture.png" width="500"/></td>
 </p>
 
 <p align="center">
