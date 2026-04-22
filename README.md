@@ -86,16 +86,13 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 ### 🔍 Key Behaviors [Age 18-27]:
 * **Department Risk:** Gen-Z attrition in HR reaches an alarming **23% to 60%**.
 
-<p align="center">
-  <img src="jobtitleGenZ.JPG" width="400" />
-</p>
 <table align="center">
   <tr>
     <td align="center"><b>Gen-zProportion</b></td>
     <td align="center"><b>JobTitle</b></td>
   </tr>
   <tr>
-    <td><img src="GenZproportion.JPG" width="300"/></td>
+    <td><img src="GenZproportion.JPG" width="400"/></td>
     <td><img src="jobtitleGenZ.JPG" width="400"/></td>
   </tr>
 </table>
