@@ -180,8 +180,8 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 
   <table align="center">
   <tr>
-    <td align="center"><b>By Satisfaction factors</b></td>
-    <td align="center"><b>By training time</b></td>
+    <td align="center"><b>Attition rate By Satisfaction factors</b></td>
+    <td align="center"><b>OverTime & training time</b></td>
   </tr>
   <tr>
     <td><img src="satisfactionBetter.JPG" width="400"/></td>
