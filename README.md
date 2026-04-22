@@ -1,5 +1,5 @@
 # HR_Dashboard
-An interactive dashboard in Human Resource dataset to EDA, analyze, and make informed decisions.
+An interactive dashboard in Human Resource dataset to EDA, analyze, and make informed decisions. There will have some mistakes on my analytic journey, so please feedback me if you meet any confusion while reading this report. 
 ![HR project cover page](1.JPG)
 
 # Project Background
@@ -45,7 +45,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 
 ---
 
-### Voluntary attrition accounts for approximately 76% of the total turnover rate.
+### Voluntary attrition accounts for approximately 76% of the total attrition rate.
 <p align="center">
   <img src="AttritionPieChart.JPG" width="600" />
 </p>
