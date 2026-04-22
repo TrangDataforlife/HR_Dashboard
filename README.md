@@ -45,7 +45,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 
 ---
 
-### In 16.12% attrition rate, Voluntary occupied 75.95% (From 1985 to 2022 years working starting overall)
+### Voluntary attrition accounts for approximately 76% of the total turnover rate.
 <p align="center">
   <img src="AttritionPieChart.JPG" width="600" />
 </p>
