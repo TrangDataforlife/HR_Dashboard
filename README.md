@@ -151,6 +151,7 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 ### Culture Working Environment Analysis:
 
 * **Main insight 1. 36.4% Gen-Z quit Job even they believe they have a best work-life balance.**
+
   They highly feel low job involvement, satisfaction environment although good relationship with co-workers.
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
