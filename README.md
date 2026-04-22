@@ -96,7 +96,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 ---
 
 ## Gen-Z [18-27], Student/ Early career & Young professional, often quit job after [1-3] years since the last promotion
-*Comparison of Early Attrition vs. Tenure vs. Overall Rate by Age.*
+*Comparison of Tenure vs. Early Attrition vs. Overall Rate by Age.*
 They also quit job at 20-50% early attrition rate. Additionally, attrition rate is high from them.
 
 <table align="center">
