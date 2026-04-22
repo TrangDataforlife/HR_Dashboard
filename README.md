@@ -3,7 +3,7 @@ An interactive dashboard in Human Resource dataset to EDA, analyze, and make inf
 ![HR project cover page](1.JPG)
 
 # Project Background
-A fictional company, a dataset I received from Starttrain's challenge in Q1.2026, contains employee information and their performance of each department. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve people management's success. 
+A fictional company, a dataset I received from Starttrain's challenge in Q1.2026, contains employee information and their performance of each department from 1988 to 2022. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve people management's success. 
 
 Insights and recommendations are provided on the following key areas:
 
@@ -69,7 +69,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
   <img src="tenureyoungage.JPG" width="800" />
 </p>
 
-* **Target Profile:** Employees born between **2000-2004** (Current age 22-26).
+* **Target Profile:** Employees born between **2000-2004** (Current age 18-22).
 * **Critical Period:** Tenure of **0-2 years** is the most intense period for attrition.
 * **Hierarchy:** High impact on **Entry, Associate, and Specialist** job levels.
 
