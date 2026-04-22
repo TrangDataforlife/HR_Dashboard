@@ -112,6 +112,8 @@ They also quit job at 20-50% early attrition rate. Additionally, attrition rate 
   </tr>
 </table>
 
+*From starting working year 1988-2022 include just the active employee now to date, Gen-Z current, [18-27] years old, occupied (6 - 13) % in each department's structure.*
+
 <p align="center">
 <td><img src="forecast.JPG" width="1000"/></td>
 </p>
