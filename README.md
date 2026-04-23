@@ -1,5 +1,5 @@
 # HR_Dashboard
-An interactive dashboard in Human Resource dataset to EDA, analyze, and make informed decisions. There will have some mistakes on my analytic journey, so please feedback me if you meet any confusion while reading this report. 
+An interactive dashboard in Human Resource dataset to EDA, analyze, and make informed decisions. There will be some mistakes on my analytic journey, so please feedback me if you meet any confusion while reading this report. 
 <p align="center">
   <img src="1.JPG" width="1000" />
 </p>
