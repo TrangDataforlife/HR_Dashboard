@@ -109,7 +109,7 @@ They also quit job at 20-50% early attrition rate. Additionally, attrition rate 
 
 <table align="center">
   <tr>
-    <td align="center"><b>Tenure by Age</b></td>
+    <td align="center"><b>Tenure of Attrition group by Age</b></td>
     <td align="center"><b>Early Attrition Rate</b></td>
     <td align="center"><b>Overall Attrition Rate</b></td>
   </tr>
