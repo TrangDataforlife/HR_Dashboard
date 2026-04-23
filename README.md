@@ -221,3 +221,29 @@ Based on the insights and findings above, we would recommend the [HR team] to co
 <p align="center">
 <td><img src="13.JPG" width="1000"/></td>
 </p>
+
+# Page Index:
+
+## Overview page
+
+<p align="center">
+<td><img src="3.JPG" width="1000"/></td>
+</p>
+
+## Demographic page
+
+<p align="center">
+<td><img src="4.JPG" width="1000"/></td>
+</p>
+
+## WorkingEnvironment page
+
+<p align="center">
+<td><img src="5.JPG" width="1000"/></td>
+</p>
+
+## Department page
+
+<p align="center">
+<td><img src="6.JPG" width="1000"/></td>
+</p>
