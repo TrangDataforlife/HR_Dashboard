@@ -44,7 +44,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 
 ## 📊 HR Attrition & Gen-Z Insights Analysis
 ### Overview of Findings
-> *Exploring employee turnover patterns from 1985 to 2022 with a focus on generational shifts.*
+> *Exploring employee attrition patterns from 1985 to 2022 with a focus on generational shifts.*
 
 ---
 
