@@ -148,21 +148,21 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 
 <p align="center">
   <b>By Marital Status</b><br>
-  <img src="attritionRateByMaritalStatus.png" width="450" />
+  <img src="attritionRateByMaritalStatus.png" width="500" />
 </p>
 
 ---
 
 <p align="center">
   <b>By Age Group</b><br>
-  <img src="attritionRateByAgeGenZ.jpg" width="450" />
+  <img src="attritionRateByAgeGenZ.jpg" width="500" />
 </p>
 
 ---
 
 <p align="center">
   <b>By Education Group</b><br>
-  <img src="attritionRateByEducation.png" width="450" />
+  <img src="attritionRateByEducation.png" width="500" />
 </p>
 
 ### Culture Working Environment Analysis:
@@ -175,8 +175,8 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
     <td align="center"><b>By Satisfaction Factors</b></td>
   </tr>
   <tr>
-    <td><img src="worklifebalanceBest.png" width="400"/></td>
-    <td><img src="satifactionBest.JPG" width="400"/></td>
+    <td><img src="worklifebalanceBest.png" width="500"/></td>
+    <td><img src="satifactionBest.JPG" width="500"/></td>
   </tr>
 </table>
 
@@ -188,8 +188,8 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
     <td align="center"><b>By performance</b></td>
   </tr>
   <tr>
-    <td><img src="promotionBest.png" width="400"/></td>
-    <td><img src="PerformanceBest.png" width="400"/></td>
+    <td><img src="promotionBest.png" width="500"/></td>
+    <td><img src="PerformanceBest.png" width="500"/></td>
   </tr>
 </table>
 
@@ -201,8 +201,8 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
     <td align="center"><b>OverTime & training time</b></td>
   </tr>
   <tr>
-    <td><img src="satisfactionBetter.JPG" width="400"/></td>
-    <td><img src="trainTimeBetter.jpg" width="400"/></td>
+    <td><img src="satisfactionBetter.JPG" width="500"/></td>
+    <td><img src="trainTimeBetter.jpg" width="500"/></td>
   </tr>
 </table>
 
@@ -211,7 +211,7 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 **Main insight : On the average tenure employee entry level is around 3.5 years they have more than 1 year without accompanying managers**
 
 <p align="center">
-    <td><img src="YearsWithCurrManagement.JPG" width="450"/></td>
+    <td><img src="YearsWithCurrManagement.JPG" width="500"/></td>
 </p>
 
 # Recommendations:
