@@ -1,7 +1,7 @@
 # HR_Dashboard
 An interactive dashboard in Human Resource dataset to EDA, analyze, and make informed decisions. There will be some mistakes on my analytic journey, so please feedback me if you meet any confusion while reading this report. 
 <p align="center">
-  <img src="1.JPG" width="1000" />
+  <img src="images/1.JPG" width="1000" />
 </p>
 
 # Project Background
@@ -38,7 +38,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 13. JobSatisfaction (ID, jobSatisfaction)
 14. Calendar (Date)
 
-![Metadata](2.JPG)
+![Metadata](images/2.JPG)
 
 # Executive Summary
 
@@ -60,7 +60,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 ---
 
 <p align="center">
-  <img src="AttritionVoluntaryLinechart.JPG" width="600" />
+  <img src="images/AttritionVoluntaryLinechart.JPG" width="600" />
 </p>
 
 > [!NOTE]
@@ -69,7 +69,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 ---
 ### The tenure employee of the attrition is younger (0-2) years intensely from the employee starting working in [2018-2022], who was born in 2000-2004.
 <p align="center">
-  <img src="tenureyoungage.JPG" width="650" />
+  <img src="images/tenureyoungage.JPG" width="650" />
 </p>
 
 * **Target Profile:** Employees born between **2000-2004** (Current age 18-22).
@@ -82,7 +82,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 > **Promotion Paradox:** Gen-Z professionals often resign **1-3 years after their last promotion**, or even within their **first year** (20-50% early attrition rate).
 
 <p align="center">
-  <img src="depart.png" width="1000" />
+  <img src="images/depart.png" width="1000" />
 </p>
 
 ### 🔍 Key Behaviors [Age 18-27]:
@@ -93,8 +93,8 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
     <td align="center"><b>JobTitle</b></td>
   </tr>
   <tr>
-    <td><img src="GenZproportion.JPG" width="350"/></td>
-    <td><img src="jobtitleGenZ.png" width="350"/></td>
+    <td><img src="images/GenZproportion.JPG" width="350"/></td>
+    <td><img src="images/jobtitleGenZ.png" width="350"/></td>
   </tr>
 </table>
 
@@ -114,16 +114,16 @@ They also quit job at 20-50% early attrition rate. Additionally, attrition rate 
     <td align="center"><b>Overall Attrition Rate</b></td>
   </tr>
   <tr>
-    <td><img src="TenureAttritionyearbyAge.JPG" width="300"/></td>
-    <td><img src="EarlyAttritionratebyage.JPG" width="400"/></td>
-    <td><img src="Attritionratebyage.JPG" width="350"/></td>
+    <td><img src="images/TenureAttritionyearbyAge.JPG" width="300"/></td>
+    <td><img src="images/EarlyAttritionratebyage.JPG" width="400"/></td>
+    <td><img src="images/Attritionratebyage.JPG" width="350"/></td>
   </tr>
 </table>
 
 *From starting working year 1988-2022 include just the active employee now to date, Gen-Z current, [18-27] years old, occupied (6 - 13) % in each department's structure.*
 
 <p align="center">
-<td><img src="forecast.JPG" width="1000"/></td>
+<td><img src="images/forecast.JPG" width="1000"/></td>
 </p>
 
 ---
@@ -136,11 +136,11 @@ They also quit job at 20-50% early attrition rate. Additionally, attrition rate 
 
 * **Main insight 1. After 3 years since the last promotion of entry level with 24% Gen-Z [18-27] quit the job, in overall year start working 1988-2022.** . There is no difference between genders.
 <p align="center">
-    <td><img src="Capture.png" width="500"/></td>
+    <td><img src="images/Capture.png" width="500"/></td>
 </p>
 
 <p align="center">
-    <td><img src="genderAttrition.png" width="500"/></td>
+    <td><img src="images/genderAttrition.png" width="500"/></td>
 </p>
 Both gender also have high attrition rate in the entry role. Female is after 1.4 years and Male is after 1 year at the entry level
 
@@ -148,21 +148,21 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 
 <p align="center">
   <b>By Marital Status</b><br>
-  <img src="attritionRateByMaritalStatus.png" width="500" />
+  <img src="images/attritionRateByMaritalStatus.png" width="500" />
 </p>
 
 ---
 
 <p align="center">
   <b>By Age Group</b><br>
-  <img src="attritionRateByAgeGenZ.jpg" width="500" />
+  <img src="images/attritionRateByAgeGenZ.jpg" width="500" />
 </p>
 
 ---
 
 <p align="center">
   <b>By Education Group</b><br>
-  <img src="attritionRateByEducation.png" width="500" />
+  <img src="images/attritionRateByEducation.png" width="500" />
 </p>
 
 ### Culture Working Environment Analysis:
@@ -175,8 +175,8 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
     <td align="center"><b>By Satisfaction Factors</b></td>
   </tr>
   <tr>
-    <td><img src="worklifebalanceBest.png" width="500"/></td>
-    <td><img src="satifactionBest.JPG" width="500"/></td>
+    <td><img src="images/worklifebalanceBest.png" width="500"/></td>
+    <td><img src="images/satifactionBest.JPG" width="500"/></td>
   </tr>
 </table>
 
@@ -188,8 +188,8 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
     <td align="center"><b>By performance</b></td>
   </tr>
   <tr>
-    <td><img src="promotionBest.png" width="500"/></td>
-    <td><img src="PerformanceBest.png" width="500"/></td>
+    <td><img src="images/promotionBest.png" width="500"/></td>
+    <td><img src="images/PerformanceBest.png" width="500"/></td>
   </tr>
 </table>
 
@@ -201,8 +201,8 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
     <td align="center"><b>OverTime & training time</b></td>
   </tr>
   <tr>
-    <td><img src="satisfactionBetter.JPG" width="500"/></td>
-    <td><img src="trainTimeBetter.jpg" width="500"/></td>
+    <td><img src="images/satisfactionBetter.JPG" width="500"/></td>
+    <td><img src="images/trainTimeBetter.jpg" width="500"/></td>
   </tr>
 </table>
 
@@ -211,7 +211,7 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 **Main insight : On the average tenure employee entry level is around 3.5 years they have more than 1 year without accompanying managers**
 
 <p align="center">
-    <td><img src="YearsWithCurrManagement.JPG" width="500"/></td>
+    <td><img src="images/YearsWithCurrManagement.JPG" width="500"/></td>
 </p>
 
 # Recommendations:
@@ -219,7 +219,7 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 Based on the insights and findings above, we would recommend the [HR team] to consider the following: 
 
 <p align="center">
-<td><img src="13.JPG" width="1000"/></td>
+<td><img src="images/13.JPG" width="1000"/></td>
 </p>
 
 # Page Index:
@@ -227,29 +227,29 @@ Based on the insights and findings above, we would recommend the [HR team] to co
 ## Metrics explaination page
 
 <p align="center">
-<td><img src="3.JPG" width="1000"/></td>
+<td><img src="images/3.JPG" width="1000"/></td>
 </p>
 
 ## Overview page
 
 <p align="center">
-<td><img src="4.JPG" width="1000"/></td>
+<td><img src="images/4.JPG" width="1000"/></td>
 </p>
 
 ## Demographic page
 
 <p align="center">
-<td><img src="5.JPG" width="1000"/></td>
+<td><img src="images/5.JPG" width="1000"/></td>
 </p>
 
 ## WorkingEnvironment page
 
 <p align="center">
-<td><img src="6.JPG" width="1000"/></td>
+<td><img src="images/6.JPG" width="1000"/></td>
 </p>
 
 ## Department page
 
 <p align="center">
-<td><img src="7.JPG" width="1000"/></td>
+<td><img src="images/7.JPG" width="1000"/></td>
 </p>
