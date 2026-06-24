@@ -162,7 +162,7 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 
 <p align="center">
   <b>By Education Group</b><br>
-  <img src="images/attritionRateByEducation.png" width="500" />
+  <img src="images/attritionRateByEducation.JPG" width="500" />
 </p>
 
 ### Culture Working Environment Analysis:
