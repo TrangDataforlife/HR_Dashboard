@@ -148,7 +148,7 @@ Both gender also have high attrition rate in the entry role. Female is after 1.4
 
 <p align="center">
   <b>By Marital Status</b><br>
-  <img src="images/attritionRateByMaritalStatus.png" width="500" />
+  <img src="images/attritionRateByMaritalStatus.JPG" width="500" />
 </p>
 
 ---
