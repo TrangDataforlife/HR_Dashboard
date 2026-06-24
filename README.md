@@ -50,7 +50,7 @@ Employees (ID employee, age, attribute, attrition, attritionRiskIndex, businessT
 
 ### Voluntary attrition accounts for approximately 76% of the total attrition rate.
 <p align="center">
-  <img src="AttritionPieChart.JPG" width="450" />
+  <img src="images/AttritionPieChart.JPG" width="450" />
 </p>
 
 * **Attrition Rate:** `~16%` 
